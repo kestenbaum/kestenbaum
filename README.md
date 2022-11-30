@@ -1,6 +1,6 @@
 ## 🔗About me
 Hi everyone. My name's Oleksii.  I'm
-web developer with extensive experience in web application development. Committed to contributing to the success of the team by working hard as a javascript developer.
+ a web developer with extensive experience in web application development. Committed to contributing to the success of the team by working hard as a javascript developer.
 ## 🔗Сontact me
 [![Telegram Badge](https://img.shields.io/badge/Telegram-fff?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/oleksii_vvn)
 
