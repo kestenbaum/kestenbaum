@@ -28,8 +28,3 @@ Hi everyone. My name's Oleksii.  I'm
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?[kestenbaum]/kestenbaum=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
