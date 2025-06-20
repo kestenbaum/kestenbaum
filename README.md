@@ -15,7 +15,7 @@ After that, I worked for 1 year at a company where I developed and maintained re
 
 I enjoy working with modern technologies like React and Next.js, and I'm always looking for ways to write better, cleaner, and more efficient code.
 
-* 🌍  I'm based in Германия
+* 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [My portfolio](http://page-me.vercel.app/)
 * ✉️  You can contact me at [vovnenkooleksii@gmail.com](mailto:vovnenkooleksii@gmail.com)
 * 🧠  I'm learning Next.Js
@@ -29,4 +29,3 @@ I enjoy working with modern technologies like React and Next.js, and I'm always 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kestenbaum" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/oleksii-vovnenko-991895206/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-[![Telegram Badge](https://img.shields.io/badge/Telegram-fff?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/oleksii_vvn)
