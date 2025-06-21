@@ -17,6 +17,7 @@ I enjoy working with modern technologies like React and Next.js, and I'm always 
 * ✉️  You can contact me at [vovnenkooleksii@gmail.com](mailto:vovnenkooleksii@gmail.com)
 * 🧠  I'm learning Next.Js
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kestenbaum&show_icons=true&theme=radical)
 ### Skills
 
 <p align="left">
