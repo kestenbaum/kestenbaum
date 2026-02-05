@@ -4,14 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a web developer with 2 years of experience.
-
-I spent 1 year working as a freelancer, mainly focused on building responsive layouts and translating designs into clean HTML/CSS.
-
-After that, I worked for 1 year at a company where I developed and maintained reusable React components for a variety of web applications.
-
-I enjoy working with modern technologies like React and Next.js, and I'm always looking for ways to write better, cleaner, and more efficient code.
-
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [My portfolio](http://page-me.vercel.app/)
 * ✉️  You can contact me at [vovnenkooleksii@gmail.com](mailto:vovnenkooleksii@gmail.com)
