@@ -5,7 +5,6 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [My portfolio](http://page-me.vercel.app/)
 * ✉️  You can contact me at [vovnenkooleksii@gmail.com](mailto:vovnenkooleksii@gmail.com)
 * 🧠  I'm learning Next.Js
 
