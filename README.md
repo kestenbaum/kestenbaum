@@ -6,7 +6,6 @@ Web Developer
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [vovnenkooleksii@gmail.com](mailto:vovnenkooleksii@gmail.com)
-* 🧠  I'm learning Next.Js
 
 ### Skills
 
