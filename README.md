@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oleksii
 ===============================================================================================================================
 
-Web Developer
+Frontend Entwickler (React, Next.js, TypeScript) mit über 3 Jahren Erfahrung in der Entwicklung moderner, skalierbarer Webanwendungen. Fokus auf UI Engineering, saubere Komponentenarchitektur, API-Integration und Performance. Ukrainischer Staatsbürger mit einer gültigen und uneingeschränkten Arbeitserlaubnis für Deutschland.
 -------------
+Gmail: vovnenkooleksii@gmail.com
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [vovnenkooleksii@gmail.com](mailto:vovnenkooleksii@gmail.com)
 
 ### Skills
 
